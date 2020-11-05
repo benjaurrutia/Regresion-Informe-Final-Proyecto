@@ -1,2 +1,2 @@
-# ejemplo-let0010
-Un repositorio de ejemplo
+# Ejemplo de título
+Un repositorio de ejemplo. Como es markdown: _cursiva_, __negrita__, -tachar-
