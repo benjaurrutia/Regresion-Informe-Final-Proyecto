@@ -1,6 +1,6 @@
 library(rio)
 auto.mpg = autos_reg
-auto.mpg
+auto.mpg  
 
 attach(auto.mpg)
 library(ggplot2)
